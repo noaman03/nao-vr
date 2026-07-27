@@ -1,5 +1,5 @@
 name: nao_vr
-description: A gaming social app for VR players
+description: A Flutter companion prototype for the NAO VR project.
 publish_to: 'none'
 version: 1.0.0+1
 

@@ -1,11 +1,11 @@
 {
-    "name": "nao_vr",
-    "short_name": "nao_vr",
+    "name": "NAO VR",
+    "short_name": "NAO VR",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "A Flutter companion prototype for the NAO VR project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
